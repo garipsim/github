@@ -5,6 +5,10 @@ public class Github {
 		
 		System.out.println("Merhabalar");
 		System.out.println("Nasilsiniz?");
+		System.out.println("Merhabalar");
+		System.out.println("Nasilsiniz?");
+		
+		
 	}
 
 }
